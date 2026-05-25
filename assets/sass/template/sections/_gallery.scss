@@ -1,0 +1,178 @@
+/* Gallery Area 1 -------------------------------*/
+.gallery-slider1 {
+    .swiper-wrapper {
+        margin: 0 -305px;
+    }
+    .swiper-slide {
+        margin-top: 74px;
+        transition: 0.4s;
+        &.swiper-slide-active {
+            margin-top: 0;
+            .gallery-card {
+                .box-content {
+                    opacity: 1;
+                    visibility: visible;
+                }
+            }
+        }
+    } 
+    .slider-pagination {
+        margin-top: -23px;
+        max-width: var(--main-container);
+        margin-left: auto;
+        margin-right: auto;
+        bottom: 0;
+        position: relative;
+        align-items: center;
+        display: flex;
+        &:after, 
+        &:before {
+            content: '';
+            position: relative;
+            height: 1px;
+            width: -webkit-fill-available;
+            background: linear-gradient(to left, $theme-color, transparent);
+            display: inline-block;
+            align-items: center;
+            top: -1px;
+            margin-right: 28px;
+        } 
+        &:after {
+            background: linear-gradient(to right, $theme-color, transparent);
+            margin-left: 28px;
+            margin-right: 0;
+        }
+        .swiper-pagination-bullet {
+            flex: none;
+        }
+    }
+    @include lg {
+        .swiper-wrapper {
+            margin: 0;
+        }
+    }
+    @include md {
+        margin: 0 30px;
+        .swiper-slide {
+            margin-top: 0;
+        }
+        .slider-pagination {
+            margin-top: 30px;
+        }
+    }
+    @include xs {
+        margin: 0 15px;
+        .slider-pagination {
+            justify-content: center;
+            .swiper-pagination-bullet {
+                --swiper-pagination-bullet-size: 8px;
+                --swiper-pagination-bullet-horizontal-gap: 10px;
+            } 
+            &:before {
+                margin-right: 10px;
+            }
+            &:after {
+                margin-left: 10px;
+            }
+        }
+    }
+}
+.gallery-card {
+    .box-img {
+        border-radius: 30px;
+        overflow: hidden;
+        img {
+            width: 100%;
+        }
+    }
+    .box-content {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 25px;
+        align-items: center;
+        transition: 0.4s;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .box-subtitle {
+        font-size: 14px;
+        font-weight: 400;
+        color: $theme-color;
+    }
+    .box-title {
+        font-size: 30px;
+        font-weight: 500;
+        margin-bottom: 0;
+        a {
+            color: $white-color;
+            &:hover {
+                color: $theme-color;
+            }
+        }
+    }
+    .box-number {
+        font-size: 64px;
+        font-family: $title-font;
+        font-weight: 400;
+        color: transparent;
+        -webkit-text-stroke: 1px $border-color3;
+    }
+    @include xs {
+        .box-title {
+            font-size: 24px;
+        }
+        .box-number {
+            font-size: 50px;
+        }
+    }
+    @include vxs {
+        .box-title {
+            font-size: 20px;
+        }
+    }
+}
+
+/* Gallery Area 2 -------------------------------*/
+.gallery-card2 {
+    position: relative;
+    border-radius: 30px;
+    overflow: hidden;
+    &:after {
+        content: '';
+        position: absolute;
+        inset: 40px;
+        background: rgba(244, 30, 30, 0.15);
+        border: 1px solid rgba(244, 30, 30, 0.5);
+        backdrop-filter: blur(8.1px);
+        border-radius: 20px;
+        transition: 0.4s;
+        transform: scale(0);
+    }
+    .gallery-img {
+        img {
+            width: 100%;
+        }
+    }
+    .icon-btn {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -20%);
+        border-radius: 50%;
+        background: $theme-color;
+        border: 0;
+        color: $white-color;
+        z-index: 1;
+        opacity: 0;
+    }
+    &:hover {
+        &:after {
+            transform: scale(1);
+        }
+        .icon-btn {
+            transform: translate(-50%, -50%);
+            opacity: 1;
+        }
+    }
+}
+

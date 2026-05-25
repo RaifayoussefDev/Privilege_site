@@ -1,0 +1,30 @@
+# Fichiers média lourds — uploader directement sur le serveur OVH par FTP
+*.mp4
+*.MP4
+*.gif
+*.zip
+*.rar
+*.7z
+
+# Archives et backups
+*.bak
+*.backup
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local settings
+.claude/
+
+# Editeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PHP logs
+*.log
+php_errors.log

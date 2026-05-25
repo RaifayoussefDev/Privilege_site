@@ -1,0 +1,214 @@
+/* Blog Card ---------------------------------- */
+.blog-title {
+    font-size: 30px;
+}
+.blog-card {
+    border-radius: 0px;
+    background-color: $white-color;
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    .box-title {
+        margin-top: 5px;
+        margin-bottom: 18px;
+        font-size: 36px;
+        font-weight: 500;
+        a {
+            background-image: linear-gradient(to left, $theme-color, $theme-color);
+            background-repeat: no-repeat;
+            background-position: bottom left;
+            background-size: 0 2px;
+            transition: 0.5s ease-in-out;
+            &:hover {
+                background-size: 100% 2px;
+            }
+        }
+    }
+    .blog-img {
+        overflow: hidden;
+        border-radius: 0px;
+        position: relative;
+        img {
+            width: 100%;
+            transition: 0.4s ease-in-out;
+        }
+    }
+    .blog-content {
+        padding: 25px 0 0;
+        transition: 0.4s;
+        position: relative;
+        z-index: 0;
+        border-top: 0;
+    }
+    .blog-text {
+        margin-top: -0.5em;
+        margin-bottom: 22px;
+        transition: 0.4s;
+    }
+    .th-btn {
+        padding: 16px 40px;
+    }
+    &:hover {
+        .blog-img {
+            img {
+                transform: scale(1.08);
+            }
+            .icon-btn {
+                opacity: 1;
+            }
+            &:after {
+                opacity: 0.8;
+            }
+        }
+    }
+    @include lg {
+        .box-title {
+            font-size: 28px;
+            margin-top: 10px;
+        }
+    }
+    @include xs {
+        .box-title {
+            line-height: 1.2;
+            font-size: 22px;
+            margin-top: 14px;
+        }
+        .blog-meta {
+            a {
+                &:after {
+                    display: none;
+                }
+            }
+        }
+    }
+    @include vxs {
+        padding: 25px;
+    }
+}
+
+/* Blog Card 2---------------------------------- */
+.blog-card2 {
+    background: transparent;
+    border: 1px solid $border-color6;
+    border-radius: 30px;
+    padding: 30px 0 30px 30px;
+    .blog-content {
+        padding: 0 30px 30px 0;
+        .blog-meta {
+            margin-top: -0.3em;
+            margin-bottom: 4px;
+            a, span {
+                color: $light-color;
+                &:after {
+                    background: $light-color;
+                }
+                &:hover {
+                    color: $theme-color;
+                }
+            }
+        }
+        .box-title {
+            margin-top: 0;
+            font-size: 30px;
+            font-weight: 500;
+            margin-bottom: 10px;
+            a {
+                color: $white-color;
+                &:hover {
+                    color: $theme-color;
+                }
+            }
+        }
+        .blog-text {
+            margin-bottom: -0.4em;
+            color: $light-color;
+        }
+        .link-btn {
+            color: $theme-color;
+            margin-top: 28px;
+            &:before {
+                width: 100%;
+                height: 1px;
+            }
+            &:hover {
+                color: $white-color;
+                &:before {
+                    background: $white-color;
+                }
+            }
+        }
+    }
+    .blog-img {
+        border-radius: 20px;
+        overflow: hidden;
+        img {
+            transition: 0.4s;
+            width: 100%;
+        }
+    }
+    &:hover {
+        .blog-img {
+            img {
+                transform: scale(1.05);
+            }
+        }
+    }
+    @include xl {
+        .blog-content .box-title {
+            font-size: 24px;
+        }
+        .blog-content .blog-meta {
+            margin-bottom: 10px;
+        }
+    }
+    @include vxs {
+        padding: 30px 0 30px 20px;
+        .blog-content {
+            padding: 0 20px 30px 0;
+            .box-title {
+                font-size: 22px;
+            }
+        }
+    }
+}
+/* Blog Card 3---------------------------------- */
+.blog-card3 {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.06);
+    border-radius: 30px;
+    background: $white-color;
+    .blog-img {
+        border-radius: 30px 30px 0 0;
+        overflow: hidden;
+        img {
+            transition: 0.4s;
+            width: 100%;
+        }
+    }
+    .blog-content {
+        padding: 30px;
+    }
+    .blog-meta {
+        margin-top: -0.3em;
+        margin-bottom: 4px;
+    }
+    .box-title {
+        margin-top: 0px;
+        margin-bottom: 13px;
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .blog-text {
+        margin-bottom: 23px;
+    }
+    &:hover {
+        .blog-img {
+            img {
+                transform: scale(1.05);
+            }
+        }
+    }
+    @include xl {
+        .box-title {
+            font-size: 24px;
+        }
+    }
+}

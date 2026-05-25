@@ -1,0 +1,88 @@
+//Call to action 1---------------------------------------
+.cta-bg-shape1-1 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: $title-color;
+    width: 735px;
+    z-index: 1;
+    clip-path: polygon(290px 0%, 100% 0, 100% 100%, 0% 100%);
+    opacity: 0.7;
+    @include xxl {
+        width: 700px;
+    }
+    @include xl {
+        width: 630px;
+    }
+}
+.cta-bg-shape1-2 {
+    position: absolute;
+    right: 270px;
+    top: 0;
+    bottom: 0;
+    background: $theme-color;
+    width: 735px;
+    z-index: 1;
+    clip-path: polygon(0 0, calc(100% - 290px) 0, 100% 100%, 290px 100%);
+    @include xxl {
+        right: 120px;
+        width: 600px;
+        clip-path: polygon(0 0, calc(100% - 200px) 0, 100% 100%, 200px 100%);
+    }
+    @include xl {
+        width: 550px;
+        right: 60px;
+    }
+}
+
+//Call to action 2---------------------------------------
+.cta-card {
+    border-radius: 30px;
+    padding: 30px 40px 27px;
+    height: 523px;
+    position: relative;
+    .cta-card-title {
+        color: $white-color;
+        font-size: 36px;
+        font-weight: 500;
+        margin-bottom: 0;
+        max-width: 92px;
+        margin-left: auto;
+        margin-top: -0.3em;
+    }
+    .cta-card-subtitle {
+        font-size: 24px;
+        font-weight: 500;
+        color: $white-color;
+        margin-bottom: 0;
+        max-width: 61px;
+        position: absolute;
+        bottom: 27px;
+        right: 80px;
+        text-align: center;
+    }
+    @include xl {
+        height: 579px;
+        background-position: top;
+    }
+    @include sm {
+        .cta-card-title {
+            font-size: 28px;
+        }
+    }
+    @include xs {
+        .cta-card-title {
+            max-width: 52px;
+            font-size: 20px;
+        }
+        .cta-card-subtitle {
+            font-size: 18px;
+        }
+    }
+    @include vxs {
+        .cta-card-subtitle {
+            right: 30px;
+        }
+    }
+}

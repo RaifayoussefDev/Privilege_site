@@ -1,0 +1,403 @@
+/* Hero Global ---------------------------------- */
+.th-hero-wrapper {
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+}
+
+.th-hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+/* Hero 1 ---------------------------------- */
+.hero-title {
+    line-height: 1;
+    margin-bottom: 19px;
+    margin-top: -0.2em;
+    text-transform: uppercase;
+    span {
+        display: block;
+    }
+    @include sm {
+        line-height: 1.2;
+    }
+}
+.hero-text {
+    margin-bottom: 32px;
+    font-size: 16px;
+}
+.hero-counter-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    .counter-number-wrap {
+        display: flex;
+        font-size: 48px;
+        font-weight: 500;
+        font-family: $title-font;
+        color: $theme-color;
+    }
+    .counter-title {
+        margin-bottom: 0;
+        color: $white-color;
+        font-size: 24px;
+        font-weight: 500;
+    }
+}
+.hero-1 {
+    .hero-slider1 {
+        @include md {
+            mask-image: none !important;
+        }
+    }
+    .hero-inner {
+        &:before {
+            z-index: -1;
+        }
+        .hero-bg-shape1 {
+            position: absolute;
+            inset: 0;
+        }
+    }
+    .hero-shadow-text {
+        font-size: 400px;
+        font-weight: 600;
+        font-family: $title-font;
+        color: $white-color;
+        line-height: normal;
+        opacity: 0.04;
+        position: absolute;
+        left: -30px;
+        top: 0;
+        z-index: -1;
+        transform: rotate(-35deg);
+    }    
+    .hero-img1 {
+        margin: 0 -104px 0 -75px;
+        @include lg {
+            margin: 0;
+        }
+        @include md {
+            display: none;
+        }
+    }
+    .icon-box {
+        .slider-arrow {
+            --pos-x: 80px;
+            --icon-size: 80px;
+            background: transparent;
+            &:after {
+                content: '';
+                position: absolute;
+                inset: 0;
+                mask-image: url(../img/theme-img/btn-circle.svg);
+                mask-size: 100% 100%;
+                background-color: $white-color;
+            }
+            .icon {
+                height: 19px;
+                width: 55px;
+                display: inline-block;
+                background: $white-color;
+                mask-image: url(../img/theme-img/btn-arrow-icon.svg);
+                mask-size: cover;
+                position: absolute;
+                right: -12px;
+                top: calc(50% - 9.5px);
+                transition: 0.4s;
+            }
+            &:hover {
+                .icon {
+                    right: 0;
+                }
+            }
+            &.slider-next {
+                transform: rotate(-180deg);
+            }
+            @include xxl {
+                --pos-x: 20px;
+                --icon-size: 60px;
+                .icon {
+                    width: 48px;
+                }
+            }
+            @include ml {
+                --pos-x: 50%;
+                bottom: 40px;
+                top: auto;
+                &.slider-prev {
+                    transform: translate(calc(-100% - 25px), 0);
+                }
+                &.slider-next {
+                    transform: translate(calc(100% + 25px), 0) rotate(180deg);
+                }
+            }
+        }
+    }
+}
+.hero-style1 {
+    position: relative;
+    z-index: 6;
+    padding: 200px 0;
+    .sub-title {
+        margin-bottom: 35px;
+        font-weight: 600;
+    }
+    .hero-text {
+        max-width: 611px;
+    }
+    .btn-wrap {
+        gap: 20px 40px;
+    }
+    @include ml {
+        padding: 160px 0 200px;   
+    }
+    @include lg {
+        padding: 130px 0 180px;
+        .hero-text {
+            max-width: none;
+        }   
+    }
+    @include xs {
+        padding: 120px 0 180px;
+    }
+}
+
+/* Hero 2 --------------------------------------*/
+.hero-2 {
+    overflow: hidden;
+    margin-top: 0;
+    .hero-img {
+        position: absolute;
+        top: 20px;
+        right: 13%;
+        @include xxl {
+            right: 5%;
+        }
+        @include md {
+            position: relative;
+            top: unset;
+            right: unset;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 40px;
+        }
+    }
+    .icon-box {
+        .slider-arrow {
+            --pos-x: 55px;
+            --icon-size: auto;
+            margin: 0;
+            background: transparent;
+            transform: translate(0, -50%);
+        }
+    }
+    @include xxl {
+        .icon-box {
+            .slider-arrow {
+                --pos-x: 25px;
+            }
+        }
+        .hero-img {
+            right: 1%;
+        }
+    }
+    @include ml {
+        .icon-box {
+            display: none;
+        }
+    }
+    @include xl {
+        .hero-img {
+            max-width: 600px;
+        }
+    }
+    @include lg {
+        .hero-img {
+            max-width: 570px;
+        }
+    }
+    @include md {
+        .hero-img {
+            max-width: 500px;
+        }
+    }
+}
+.hero-style2 {
+    position: relative;
+    z-index: 6;
+    padding: 260px 0;
+    max-width: 650px;
+    .hero-title {
+        color: $white-color;
+        font-weight: 600;
+        span {
+            display: block;
+        }
+    }
+    .sub-title {
+        margin-bottom: 35px;
+    }
+    .hero-text {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    @include xxl {
+        padding: 200px 0;
+    }
+    @include ml {
+        padding: 180px 0;
+        .hero-text {
+            font-size: 16px;
+        }
+        .hero-title {
+            line-height: 1.1;
+        }
+    }
+    @include xl {
+        padding: 160px 0;
+    }
+    @include md {
+        padding: 120px 0 0px 0;
+        text-align: center;
+        margin: 0 auto;
+        max-width: none;
+        .sub-title {
+            justify-content: center;
+            &:before {
+                display: none;
+            }
+        }
+    }
+    @include xs {
+        padding: 100px 0 40px 0;
+        .hero-title {
+            font-size: 42px;
+        }
+        .btn-group {
+            justify-content: center;
+        }
+    }
+    @include vxs {
+        .hero-title {
+            font-size: 36px;
+        }
+    }
+}
+
+/* Hero 3 -------------------------------------*/
+.hero-3 {
+    .icon-box {
+        .slider-arrow {
+            --pos-x: 55px;
+            --icon-size: auto;
+            margin: 0;
+            background: transparent;
+            transform: translate(0, -50%);
+        }
+    }
+    @include xxl {
+        .icon-box {
+            .slider-arrow {
+                --pos-x: 25px;
+            }
+        }
+    }
+    @include ml {
+        .icon-box {
+            display: none;
+        }
+    }
+}
+.hero-style3 {
+    position: relative;
+    z-index: 6;
+    padding: 360px 0 230px;
+    text-align: center;
+    .sub-title {
+        justify-content: center;
+        margin-bottom: 35px;
+        &:after,
+        &:before {
+            display: none;
+        }
+    }
+    .hero-title {
+        color: $white-color;
+        font-size: 84px;
+        font-weight: 600;
+        letter-spacing: 0.1em;
+        position: relative;
+        z-index: 1;
+        span {
+            display: block;
+        }
+        .shadow-title {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            margin: 8px 0 0 -15px;
+            background: transparent;
+            color: transparent;
+            -webkit-text-stroke: 1px $light-color;
+            font-size: 84px;
+            font-weight: 600;
+            z-index: -1;
+            opacity: 0.5;
+        }
+    }
+    .btn-group {
+        margin-top: 18px;
+    }
+    @include xl {
+        padding: 300px 0 170px;
+    }
+    @include md {
+        padding: 260px 0 150px;
+        .hero-title {
+            font-size: 60px;
+            .shadow-title {
+                font-size: 60px;
+            }
+        }
+    }
+    @include sm {
+        .hero-title {
+            font-size: 50px;
+            .shadow-title {
+                font-size: 50px;
+            }
+        }
+    }
+    @include xs {
+        padding: 200px 0 120px;
+        .sub-title {
+            font-size: 16px;
+        }
+        .hero-title {
+            font-size: 34px;
+            .shadow-title {
+                font-size: 34px;
+            }
+        }
+        .btn-group {
+            justify-content: center;
+        }
+    }
+    @include vxs {
+        .hero-title {
+            font-size: 32px;
+            .shadow-title {
+                font-size: 32px;
+                margin: 8px 4px 0 -4px;
+            }
+        }
+    }
+}
