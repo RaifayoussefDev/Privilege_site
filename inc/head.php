@@ -1,6 +1,12 @@
+<?php
+$path = isset($page) ? '.' : '..';
+if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === 'off') {
+    header('Location: https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], true, 301);
+    exit;
+}
+?>
 <!doctype html>
 <html class="no-js" lang="fr">
-<?php $path = isset($page) ? '.' : '..'; ?>
 
 <head>
     <meta charset="utf-8">
