@@ -1,5 +1,10 @@
 <?php
 $path = isset($page) ? '.' : '..';
+$host = strtolower($_SERVER['HTTP_HOST'] ?? '');
+if (strpos($host, 'privilège.ma') !== false) {
+    header('Location: https://privilege.ma' . $_SERVER['REQUEST_URI'], true, 301);
+    exit;
+}
 if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === 'off') {
     header('Location: https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], true, 301);
     exit;
