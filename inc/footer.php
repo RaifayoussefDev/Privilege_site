@@ -42,7 +42,7 @@
                                      Envoyez-nous un email :
                                  </p>
                                  <h5 class="info-box_text">
-                                     <a href="mailto:info@fitkit.com" class="info-box_link">privilege@capitalsoft.ma</a>
+                                     <a href="mailto:info@privilege.ma" class="info-box_link">info@privilege.ma</a>
                                  </h5>
                              </div>
                          </div>
@@ -69,13 +69,13 @@
                          <h3 class="widget_title">Nos services</h3>
                          <div class="menu-all-pages-container">
                              <ul class="menu">
-                                 <li><a href="service.html">Entraînement personnel</a></li>
-                                 <li><a href="service.html">Entraînement en groupe</a></li>
-                                 <li><a href="service.html">Renforcement musculaire</a></li>
-                                 <li><a href="service.html">Entraînement virtuel</a></li>
-                                 <li><a href="service.html">Entraînement perte de poids</a></li>
-                                 <li><a href="service.html">Étirement corporel</a></li>
-                                 <li><a href="service.html">Entraînement psychologique</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Entraînement personnel</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Entraînement en groupe</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Renforcement musculaire</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Entraînement virtuel</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Entraînement perte de poids</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Étirement corporel</a></li>
+                                 <li><a href="<?php echo $path; ?>/services/">Entraînement psychologique</a></li>
                              </ul>
                          </div>
                      </div>
@@ -111,7 +111,7 @@
              <div class="row gy-3 align-items-center">
                  <div class="col-lg-6">
                      <p class="copyright-text">
-                         <i class="fal fa-copyright"></i> Copyright 2024 <a href="https://Capitalsoft.ma">Capitalsoft</a>. Tous droits réservés.
+                         <i class="fal fa-copyright"></i> Copyright 2026 <a href="https://privilege.ma">Privilège Luxury Fitness Club</a>. Tous droits réservés.
                      </p>
                  </div>
                  <div class="col-lg-6 text-center text-lg-end">

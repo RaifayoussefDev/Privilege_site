@@ -25,7 +25,7 @@ Hero Area
                                     </h1>
                                     <!-- <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.5s">Les entraînements en salle de sport sont des séances d'exercice structurées réalisées dans un établissement de fitness équipé de diverses machines d'exercice, poids libres et commodités.</p> -->
                                     <!-- <div class="btn-wrap" data-ani="slideinup" data-ani-delay="0.7s">
-                                        <a href="schedule.html" class="th-btn">VOIR L'HORAIRE DES COURS</a>
+                                        <a href="Contact/" class="th-btn">NOUS CONTACTER</a>
                                         <div class="hero-counter-wrap">
                                             <div class="counter-number-wrap">
                                                 <div class="counter-number">2</div>k <span class="fw-light">+</span>
@@ -45,7 +45,7 @@ Hero Area
                         </div>
                     </div>
                     <div class="hero-shadow-text">GYM</div>
-                    <div class="hero-bg-shape1" data-bg-src="assets/img/photos 2/vedio/video.gif">
+                    <div class="hero-bg-shape1">
                     </div>
                 </div>
 
@@ -65,7 +65,7 @@ Hero Area
                                     </h1>
                                     <!-- <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.5s">Les entraînements en salle de sport sont des séances d'exercice structurées réalisées dans un établissement de fitness équipé de diverses machines d'exercice, poids libres et commodités.</p> -->
                                     <div class="btn-wrap" data-ani="slideinup" data-ani-delay="0.7s">
-                                        <a href="schedule.html" class="th-btn">VOIR L'HORAIRE DES COURS</a>
+                                        <a href="Contact/" class="th-btn">NOUS CONTACTER</a>
                                         <div class="hero-counter-wrap">
                                             <div class="counter-number-wrap">
                                                 <div class="counter-number">2</div>k <span class="fw-light">+</span>
@@ -437,22 +437,7 @@ Service Area
                                         </div>
                                         <h3 class="box-title"><a href="service-details.html">Cours de boxe</a></h3>
                                         <p class="box-text">Les tapis roulants, vélos stationnaires et machines elliptiques sont couramment utilisés pour les entraînements cardiovasculaires, aidant à améliorer l'endurance, brûler des calories et renforcer la santé cardiaque.</p>
-                                        <div class="author-wrap">
-                                            <div class="author-wrap-content">
-                                                <div class="author-thumb">
-                                                    <img src="assets/img/service/service_card_author_1_1.png" alt="Icône">
-                                                </div>
-                                                <div class="content">
-                                                    <h4 class="author-name"><a href="service-details.html">Esa Elizabed</a></h4>
-                                                    <p class="desig">Entraîneur Fitness</p>
-                                                </div>
-                                            </div>
-                                            <div class="author-wrap-contact">
-                                                <p class="contact-text">Appelez-moi</p>
-                                                <a class="contact-link" href="tel:16365896547">+ 163-6589-6547</a>
-                                            </div>
-                                        </div>
-                                        <a class="th-btn" href="service-details.html">Voir les détails</a>
+                                        <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -481,10 +466,10 @@ Service Area
                                         <div class="box-icon">
                                             <img src="assets/img/icon/service_icon1-4.svg" alt="Icon">
                                         </div>
-                                        <h3 class="box-title"><a href="service-details.html">CrossFit Training</a></h3>
-                                        <p class="box-text">Treadmills, stationary bikes, and elliptical machines are commonly used for cardiovascular workouts, helping to improve endurance, burn calories, and enhance heart health.</p>
+                                        <h3 class="box-title"><a href="services/">CrossFit Training</a></h3>
+                                        <p class="box-text">Le CrossFit combine des exercices fonctionnels à haute intensité pour développer la force, l'endurance et la condition physique globale. Adapté à tous les niveaux, il offre des entraînements variés et stimulants pour atteindre vos objectifs rapidement.</p>
 
-                                        <a class="th-btn" href="service-details.html">View Details</a>
+                                        <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -517,22 +502,7 @@ Service Area
                                         <h3 class="box-title"><a href="service-details.html">Entraînement Mixte</a></h3>
                                         <p class="box-text">L'entraînement mixte combine des exercices cardiovasculaires et de renforcement musculaire pour améliorer la condition physique globale, la coordination et la performance. Il est adapté à tous les niveaux et objectifs.</p>
 
-                                        <div class="author-wrap">
-                                            <div class="author-wrap-content">
-                                                <div class="author-thumb">
-                                                    <img src="assets/img/service/service_card_author_1_1.png" alt="Icône">
-                                                </div>
-                                                <div class="content">
-                                                    <h4 class="author-name"><a href="service-details.html">Esa Elizabed</a></h4>
-                                                    <p class="desig">Entraîneur Fitness</p>
-                                                </div>
-                                            </div>
-                                            <div class="author-wrap-contact">
-                                                <p class="contact-text">Appelez-moi</p>
-                                                <a class="contact-link" href="tel:16365896547">+ 163-6589-6547</a>
-                                            </div>
-                                        </div>
-                                        <a class="th-btn" href="service-details.html">Voir les détails</a>
+                                        <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -1075,7 +1045,7 @@ Testimonial Area
                                     </div>
                                     <div class="swiper-slide">
                                         <div class="testi-card">
-                                            <p class="testi-card_text">« L'équipe de Baroque est incroyablement dévouée, compétente et solidaire. Le produit fini était magnifique et valait chaque centime. Je recommanderais absolument Baroque pour la perte de poids ou l'amélioration des performances athlétiques. »</p>
+                                            <p class="testi-card_text">« L'équipe de Privilège est incroyablement dévouée, compétente et solidaire. Les résultats obtenus sont magnifiques et valent chaque effort. Je recommanderais absolument Privilège Luxury Fitness Club à toute personne souhaitant améliorer sa forme et ses performances. »</p>
                                             <div class="testi-card_review">
                                                 <i class="far fa-star"></i>
                                                 <i class="far fa-star"></i>
@@ -1143,7 +1113,7 @@ Contact Area
                         </div>
                         <div class="media-body">
                             <h3 class="box-title h5 text-white">Adresse Email</h3>
-                            <p class="box-text"><a href="mailto:privilege@capitalsoft.com">privilege@capitalsoft.com</a></p>
+                            <p class="box-text"><a href="mailto:info@privilege.ma">info@privilege.ma</a></p>
                         </div>
                     </div>
                     <div class="contact-feature">
@@ -1262,4 +1232,4 @@ Brand Area
 
 <?php
 require "inc/footer.php";
-require "inc/foot.php";; ?>
+require "inc/foot.php"; ?>

@@ -10,7 +10,7 @@
                 <div class="about-logo">
                     <a href="<?php echo $path; ?>"><img src="<?php echo $path; ?>/assets/img/logo_light.png" alt="Fitkit"></a>
                 </div>
-                <p class="about-text"> Begin with a thorough assessment of your current fitness level, considering factors like strength, flexibility.</p>
+                <p class="about-text">Découvrez une expérience fitness inégalée alliant luxe et performance au cœur de Casablanca.</p>
                 <div class="info-box">
                     <p class="info-box_title">
                         Call Us Anytime:
@@ -24,17 +24,17 @@
                         Email Us:
                     </p>
                     <h5 class="info-box_text">
-                        <a href="mailto:info@capitalsoft.ma" class="info-box_link">info@capitalsoft.ma</a>
+                        <a href="mailto:info@privilege.ma" class="info-box_link">info@privilege.ma</a>
                     </h5>
                 </div>
             </div>
         </div>
         
         <div class="widget newsletter-widget  ">
-            <h3 class="widget_title">Subscribe Now</h3>
+            <h3 class="widget_title">S'abonner</h3>
             <form class="newsletter-form">
                 <div class="form-group">
-                    <input class="form-control" type="email" placeholder="Email Address" required="">
+                    <input class="form-control" type="email" placeholder="Adresse Email" required="">
                     <button type="submit" class="th-btn"><i class="far fa-paper-plane"></i> Subscribe</button>
                 </div>
             </form>
@@ -98,8 +98,8 @@
                 <div class="col-auto">
                     <div class="header-links">
                         <ul>
-                            <li class="d-none d-xl-inline-block"><i class="fal fa-phone"></i><a href="tel:16365899654">+212 5228-31616</a></li>
-                            <li class="d-none d-md-inline-block"><i class="fal fa-envelope"></i><a href="mailto:">info@capitalsoft.ma</a></li>
+                            <li class="d-none d-xl-inline-block"><i class="fal fa-phone"></i><a href="tel:+212522831616">+212 5228-31616</a></li>
+                            <li class="d-none d-md-inline-block"><i class="fal fa-envelope"></i><a href="mailto:info@privilege.ma">info@privilege.ma</a></li>
                             <li class="d-none d-sm-inline-block"><i class="fal fa-location-dot"></i><a href="#">709 Bd Modibo Keita, Casablanca 20000</a></li>
                         </ul>
                     </div>
