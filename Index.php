@@ -11,7 +11,7 @@ Hero Area
     <div class="swiper th-slider hero-slider1" id="heroSlide1" data-slider-options='{"effect":"fade", "autoHeight": "true"}' data-mask-src="assets/img/hero/hero_bg-shape-mask.png">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_1_1.jpg" data-overlay="black" data-opacity="9">
+                <div class="hero-inner" data-bg-src="assets/img/photos 2/Photos/889A1640-HDR-1 (1).jpg" data-overlay="black" data-opacity="9">
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-8 col-lg-6">
@@ -23,8 +23,8 @@ Hero Area
                                         <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
                                             Votre Corps </span>
                                     </h1>
-                                    <!-- <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.5s">Les entraînements en salle de sport sont des séances d'exercice structurées réalisées dans un établissement de fitness équipé de diverses machines d'exercice, poids libres et commodités.</p> -->
-                                    <!-- <div class="btn-wrap" data-ani="slideinup" data-ani-delay="0.7s">
+                                    <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.5s">Découvrez une expérience fitness haut de gamme au cœur de Casablanca. CrossFit, Reaxing, Coaching personnel, Beauty &amp; Spa — le tout dans un espace luxueux.</p>
+                                    <div class="btn-wrap" data-ani="slideinup" data-ani-delay="0.7s">
                                         <a href="Contact/" class="th-btn">NOUS CONTACTER</a>
                                         <div class="hero-counter-wrap">
                                             <div class="counter-number-wrap">
@@ -32,7 +32,7 @@ Hero Area
                                             </div>
                                             <h4 class="counter-title">Clients Satisfaits</h4>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
 
@@ -200,7 +200,7 @@ About Area
                                     <li>Qualité de travail exceptionnelle</li>
                                 </ul>
                             </div>
-                            <a href="about.html" class="th-btn style2">Commencer</a>
+                            <a href="About/" class="th-btn style2">Commencer</a>
                         </div>
                     </div>
                 </div>
@@ -303,7 +303,7 @@ Service Area
             </div>
             <div class="col-lg-auto">
                 <div class="sec-btn">
-                    <a href="service.html" class="th-btn style2">Voir tous les cours</a>
+                    <a href="services/" class="th-btn style2">Voir tous les cours</a>
                 </div>
             </div>
 
@@ -373,10 +373,10 @@ Service Area
                                         <div class="box-icon">
                                             <img src="assets/img/icon/service_icon1-1.svg" alt="Icône">
                                         </div>
-                                        <h3 class="box-title"><a href="service-details.html">Reaxing</a></h3>
+                                        <h3 class="box-title"><a href="services/">Reaxing</a></h3>
                                         <p class="box-text">Le Reaxing combine des exercices innovants et des mouvements imprévisibles pour améliorer la coordination, la réactivité et l'équilibre, tout en offrant une expérience d'entraînement engageante et stimulante.</p>
 
-                                        <a class="th-btn" href="service-details.html">Voir les détails</a>
+                                        <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -405,10 +405,10 @@ Service Area
                                         <div class="box-icon">
                                             <img src="assets/img/icon/service_icon1-2.svg" alt="Icône">
                                         </div>
-                                        <h3 class="box-title"><a href="service-details.html">Entraînement personnel</a></h3>
+                                        <h3 class="box-title"><a href="services/">Entraînement personnel</a></h3>
                                         <p class="box-text">L'entraînement personnel offre un accompagnement sur mesure pour atteindre vos objectifs de fitness. Avec des programmes personnalisés et un suivi adapté, il permet d'améliorer vos performances, de renforcer votre motivation et d'optimiser vos résultats, tout en respectant votre rythme et vos besoins spécifiques.</p>
 
-                                        <a class="th-btn" href="service-details.html">Voir les détails</a>
+                                        <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -435,7 +435,7 @@ Service Area
                                         <div class="box-icon">
                                             <img src="assets/img/icon/service_icon1-3.svg" alt="Icône">
                                         </div>
-                                        <h3 class="box-title"><a href="service-details.html">Cours de boxe</a></h3>
+                                        <h3 class="box-title"><a href="services/">Cours de boxe</a></h3>
                                         <p class="box-text">Les tapis roulants, vélos stationnaires et machines elliptiques sont couramment utilisés pour les entraînements cardiovasculaires, aidant à améliorer l'endurance, brûler des calories et renforcer la santé cardiaque.</p>
                                         <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
@@ -499,7 +499,7 @@ Service Area
                                         <div class="box-icon">
                                             <img src="assets/img/icon/service_icon1-3.svg" alt="Icône">
                                         </div>
-                                        <h3 class="box-title"><a href="service-details.html">Entraînement Mixte</a></h3>
+                                        <h3 class="box-title"><a href="services/">Entraînement Mixte</a></h3>
                                         <p class="box-text">L'entraînement mixte combine des exercices cardiovasculaires et de renforcement musculaire pour améliorer la condition physique globale, la coordination et la performance. Il est adapté à tous les niveaux et objectifs.</p>
 
                                         <a class="th-btn" href="services/">Voir les détails</a>
@@ -530,10 +530,10 @@ Service Area
                                         <div class="box-icon">
                                             <img src="assets/img/icon/service_icon1-5.svg" alt="Icône">
                                         </div>
-                                        <h3 class="box-title"><a href="service-details.html">Beauty & Spa</a></h3>
+                                        <h3 class="box-title"><a href="services/">Beauty & Spa</a></h3>
                                         <p class="box-text">Découvrez un espace dédié à votre bien-être et votre relaxation. Profitez de nos soins spa, massages relaxants, et traitements de beauté, dans un cadre apaisant conçu pour revitaliser votre corps et esprit.</p>
 
-                                        <a class="th-btn" href="service-details.html">Voir les détails</a>
+                                        <a class="th-btn" href="services/">Voir les détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -590,8 +590,8 @@ Why Choose Us Area
                         </div>
                     </div>
                     <div class="btn-wrap mt-40">
-                        <a href="about.html" class="th-btn style2">En Savoir Plus</a>
-                        <a href="contact.html" class="th-btn style3">Nous Contacter</a>
+                        <a href="About/" class="th-btn style2">En Savoir Plus</a>
+                        <a href="Contact/" class="th-btn style3">Nous Contacter</a>
                     </div>
                 </div>
             </div>
@@ -621,9 +621,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_1.png" alt="Team">
+                                    <img src="assets/img/team/team_1_1.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_1-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_1.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -638,8 +638,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Jhon Williams</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Karim El Mansouri</a></h3>
+                                <span class="team-desig">Coach CrossFit</span>
                             </div>
                         </div>
                     </div>
@@ -649,9 +649,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_2.png" alt="Team">
+                                    <img src="assets/img/team/team_1_2.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_2-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_2.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -666,8 +666,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Henry Joseph</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Nabil Benjelloun</a></h3>
+                                <span class="team-desig">Coach Fitness</span>
                             </div>
                         </div>
                     </div>
@@ -677,9 +677,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_3.png" alt="Team">
+                                    <img src="assets/img/team/team_1_3.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_3-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_3.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -694,8 +694,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Esa Elizabed</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Salma Tazi</a></h3>
+                                <span class="team-desig">Coach Yoga &amp; Spa</span>
                             </div>
                         </div>
                     </div>
@@ -705,9 +705,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_4.png" alt="Team">
+                                    <img src="assets/img/team/team_1_4.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_4-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_4.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -722,8 +722,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Henry Carlose</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Yassine Chakir</a></h3>
+                                <span class="team-desig">Coach Reaxing</span>
                             </div>
                         </div>
                     </div>
@@ -733,9 +733,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_1.png" alt="Team">
+                                    <img src="assets/img/team/team_1_1.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_1-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_1.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -750,8 +750,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Jhon Williams</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Karim El Mansouri</a></h3>
+                                <span class="team-desig">Coach CrossFit</span>
                             </div>
                         </div>
                     </div>
@@ -761,9 +761,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_2.png" alt="Team">
+                                    <img src="assets/img/team/team_1_2.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_2-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_2.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -778,8 +778,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Henry Joseph</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Nabil Benjelloun</a></h3>
+                                <span class="team-desig">Coach Fitness</span>
                             </div>
                         </div>
                     </div>
@@ -789,9 +789,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_3.png" alt="Team">
+                                    <img src="assets/img/team/team_1_3.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_3-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_3.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -806,8 +806,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Esa Elizabed</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Salma Tazi</a></h3>
+                                <span class="team-desig">Coach Yoga &amp; Spa</span>
                             </div>
                         </div>
                     </div>
@@ -817,9 +817,9 @@ Team Area
                         <div class="th-team team-card">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="assets/img/team/team_1_4.png" alt="Team">
+                                    <img src="assets/img/team/team_1_4.jpg" alt="Team">
                                     <div class="hover-img">
-                                        <img src="assets/img/team/team_1_4-hover.png" alt="Team">
+                                        <img src="assets/img/team/team_1_4.jpg" alt="Team">
                                     </div>
                                 </div>
                                 <div class="team-social-hover">
@@ -834,8 +834,8 @@ Team Area
                                 </div>
                             </div>
                             <div class="team-card-content">
-                                <h3 class="box-title"><a href="team-details.html">Henry Carlose</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Yassine Chakir</a></h3>
+                                <span class="team-desig">Coach Reaxing</span>
                             </div>
                         </div>
                     </div>
@@ -1028,7 +1028,7 @@ Testimonial Area
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="testi-card">
-                                            <p class="testi-card_text">« De nombreuses personnes bénéficient de plans d'entraînement personnalisés conçus par des professionnels du fitness ou des entraîneurs personnels pour atteindre des objectifs spécifiques, tels que le gain musculaire, la perte de poids ou l'amélioration des performances athlétiques. »</p>
+                                            <p class="testi-card_text">« Depuis que j'ai rejoint Privilège Luxury Fitness Club, ma transformation est remarquable. Les coachs sont professionnels et à l'écoute, l'ambiance est ultra-motivante et les équipements sont d'une qualité irréprochable. Un club vraiment hors du commun à Casablanca ! »</p>
                                             <div class="testi-card_review">
                                                 <i class="far fa-star"></i>
                                                 <i class="far fa-star"></i>
@@ -1038,7 +1038,7 @@ Testimonial Area
                                             </div>
                                             <div class="testi-card_profile">
                                                 <div class="testi-card_content">
-                                                    <h3 class="testi-card_name">Alex Furnandes</h3>
+                                                    <h3 class="testi-card_name">Mehdi Alaoui</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -1055,7 +1055,7 @@ Testimonial Area
                                             </div>
                                             <div class="testi-card_profile">
                                                 <div class="testi-card_content">
-                                                    <h3 class="testi-card_name">Brooklyn Simmons</h3>
+                                                    <h3 class="testi-card_name">Zineb Berrada</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -1153,73 +1153,73 @@ Brand Area
         <div class="swiper th-slider text-center" id="brandSlider2" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"5"},"1400":{"slidesPerView":"5"},"1500":{"slidesPerView":"6"}}}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_1-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_1.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_2-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_2.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_3-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_3.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_4-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_4.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_5-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_5.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_6-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_6.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_1-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_1.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_2-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_2.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_3-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_3.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_4-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_4.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_5-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_5.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="assets/img/brand/brand_2_6-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="assets/img/brand/brand_2_6.svg" alt="Brand Logo">
                     </a>

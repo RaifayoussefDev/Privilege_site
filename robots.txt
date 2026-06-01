@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /inc/
+Disallow: /assets/img/Photos 2/
+Disallow: /assets/img/photos 2/
+
+Sitemap: https://privilege.ma/sitemap.xml

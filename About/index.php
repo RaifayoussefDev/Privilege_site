@@ -14,7 +14,7 @@ require "../inc/header.php"; ?>
                 <div class="breadcumb-content">
                     <h1 class="breadcumb-title">À Propos de nous</h1>
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="../">Accueil</a></li>
                         <li>À Propos de nous</li>
                     </ul>
                 </div>
@@ -155,8 +155,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Jhon Williams</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Karim El Mansouri</a></h3>
+                                <span class="team-desig">Coach CrossFit</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -184,8 +184,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Henry Joseph</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Nabil Benjelloun</a></h3>
+                                <span class="team-desig">Coach Fitness</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -213,8 +213,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Esa Elizabed</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Salma Tazi</a></h3>
+                                <span class="team-desig">Coach CrossFit</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -242,8 +242,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Darrell Steward</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Darrell Steward</a></h3>
+                                <span class="team-desig">Coach Fitness</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -271,8 +271,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Jhon Williams</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Karim El Mansouri</a></h3>
+                                <span class="team-desig">Coach CrossFit</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -300,8 +300,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Henry Joseph</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Nabil Benjelloun</a></h3>
+                                <span class="team-desig">Coach Fitness</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -329,8 +329,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Esa Elizabed</a></h3>
-                                <span class="team-desig">Fitness Trainer</span>
+                                <h3 class="box-title"><a href="#">Salma Tazi</a></h3>
+                                <span class="team-desig">Coach CrossFit</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -358,8 +358,8 @@ Team Area
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="team-details.html">Darrell Steward</a></h3>
-                                <span class="team-desig">Gym Trainer</span>
+                                <h3 class="box-title"><a href="#">Darrell Steward</a></h3>
+                                <span class="team-desig">Coach Fitness</span>
                                 <div class="team-social-hover">
                                     <a href="#" class="team-social-hover_btn">
                                         <i class="far fa-plus"></i>
@@ -403,9 +403,9 @@ Service Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/healthy.png" alt="Icon">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Reaxing</a></h3>
+                        <h3 class="box-title"><a href="../services/">Reaxing</a></h3>
                         <p class="box-text">Un programme unique qui booste vitesse, coordination et motricité.</p>
-                        <a href="service-details.html" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="../services/" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -420,9 +420,9 @@ Service Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon2-2.svg" alt="Icon">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">CrossFit</a></h3>
+                        <h3 class="box-title"><a href="../services/">CrossFit</a></h3>
                         <p class="box-text">Découvrez des séances d'entraînement variées et accessibles à tous.</p>
-                        <a href="service-details.html" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="../services/" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
 
                     </div>
                 </div>
@@ -438,9 +438,9 @@ Service Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/yoga.png" alt="Icon">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">YOGA</a></h3>
+                        <h3 class="box-title"><a href="../services/">YOGA</a></h3>
                         <p class="box-text">Apprenez à vous détendre et à renforcer votre corps en douceur.</p>
-                        <a href="service-details.html" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="../services/" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -455,9 +455,9 @@ Service Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon2-4.svg" alt="Icon">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Équipements Modernes</a></h3>
+                        <h3 class="box-title"><a href="../services/">Équipements Modernes</a></h3>
                         <p class="box-text">Profitez des appareils de pointe pour des entraînements optimaux.</p>
-                        <a href="service-details.html" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="../services/" class="link-btn style4">Lire la suite<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -473,73 +473,73 @@ Brand Area
         <div class="swiper th-slider text-center" id="brandSlider3" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"5"},"1400":{"slidesPerView":"5"},"1500":{"slidesPerView":"6"}}}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_1-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_1.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_2-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_2.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_3-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_3.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_4-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_4.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_5-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_5.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_6-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_6.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_1-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_1.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_2-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_2.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_3-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_3.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_4-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_4.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_5-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_5.svg" alt="Brand Logo">
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="blog.html" class="brand-box2">
+                    <a href="#" class="brand-box2">
                         <img class="original" src="<?php echo $path; ?>/assets/img/brand/brand_3_6-black.svg" alt="Brand Logo">
                         <img class="hover-img" src="<?php echo $path; ?>/assets/img/brand/brand_3_6.svg" alt="Brand Logo">
                     </a>

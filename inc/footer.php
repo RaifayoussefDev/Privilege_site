@@ -1,3 +1,33 @@
+<?php $path = $path ?? '..'; ?>
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/212522831616" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Contactez-nous sur WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+</a>
+<style>
+.whatsapp-float {
+    position: fixed;
+    bottom: 90px;
+    right: 24px;
+    width: 56px;
+    height: 56px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    box-shadow: 0 4px 16px rgba(37,211,102,0.45);
+    z-index: 9999;
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-decoration: none;
+}
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 24px rgba(37,211,102,0.6);
+    color: #fff;
+}
+</style>
  <!--==============================Footer Area==============================-->
  <footer class="footer-wrapper footer-default" data-bg-src="<?php echo $path; ?>/assets/img/bg/background_footer.jpg">
      <div class="footer-top">

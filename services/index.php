@@ -25,7 +25,7 @@ require "../inc/header.php"; ?>
                 <div class="breadcumb-content">
                     <h1 class="breadcumb-title">Services</h1>
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="../">Accueil</a></li>
                         <li>Services</li>
                     </ul>
                 </div>
@@ -52,9 +52,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-1.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Gym & Entraînement Fitness</a></h3>
+                        <h3 class="box-title"><a href="#">Gym & Entraînement Fitness</a></h3>
                         <p class="box-text">Les salles de sport s'adaptent à différents niveaux de condition physique et préférences, convenant aux débutants comme aux personnes expérimentées. Elles mettent l'accent sur la sécurité et l'hygiène des équipements.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -67,9 +67,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-2.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Entraînement Personnel</a></h3>
+                        <h3 class="box-title"><a href="#">Entraînement Personnel</a></h3>
                         <p class="box-text">Les tapis roulants, vélos stationnaires et machines elliptiques sont souvent utilisés pour des entraînements cardio, améliorant l'endurance et brûlant des calories.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -82,9 +82,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-3.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Haltérophilie</a></h3>
+                        <h3 class="box-title"><a href="#">Haltérophilie</a></h3>
                         <p class="box-text">Les équipements de musculation dans les salles ciblent des groupes musculaires spécifiques, améliorant la force et la composition corporelle globale.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-4.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Force Cardio</a></h3>
+                        <h3 class="box-title"><a href="#">Force Cardio</a></h3>
                         <p class="box-text">Les salles de sport disposent souvent de coachs certifiés qui donnent des conseils sur les techniques d'exercice et les routines d'entraînement efficaces.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -112,9 +112,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-5.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Musculation</a></h3>
+                        <h3 class="box-title"><a href="#">Musculation</a></h3>
                         <p class="box-text">Des horaires étendus et des commodités variées rendent les entraînements en salle pratiques pour divers emplois du temps.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -127,9 +127,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-6.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Équilibre Corporel</a></h3>
+                        <h3 class="box-title"><a href="#">Équilibre Corporel</a></h3>
                         <p class="box-text">Les salles permettent de choisir parmi une variété d'exercices et de personnaliser les entraînements selon ses besoins.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -142,9 +142,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-7.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Pilates Débutant</a></h3>
+                        <h3 class="box-title"><a href="#">Pilates Débutant</a></h3>
                         <p class="box-text">Les salles de sport servent de lieux de rencontre sociale où les personnes partageant des objectifs similaires peuvent se motiver mutuellement.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -157,9 +157,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-8.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Yoga de Base</a></h3>
+                        <h3 class="box-title"><a href="#">Yoga de Base</a></h3>
                         <p class="box-text">La disponibilité de différentes zones d'exercice permet d'intégrer divers types d'exercices. Les séances en groupe ajoutent une dimension sociale.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -172,9 +172,9 @@ Feature Area
                         <div class="service-card-icon">
                             <img src="<?php echo $path; ?>/assets/img/icon/service_icon4-9.svg" alt="Icône">
                         </div>
-                        <h3 class="box-title"><a href="service-details.html">Développement Musculaire</a></h3>
+                        <h3 class="box-title"><a href="#">Développement Musculaire</a></h3>
                         <p class="box-text">De nombreuses salles offrent des outils pour suivre les progrès, comme des applications, des journaux d'entraînement, ou des logiciels intégrés.</p>
-                        <a href="service-details.html" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="link-btn style4">En savoir plus<i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>

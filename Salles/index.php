@@ -16,7 +16,7 @@ require "../inc/header.php";; ?>
                 <div class="breadcumb-content">
                     <h1 class="breadcumb-title">Classes</h1>
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="../">Accueil</a></li>
                         <li>Classes</li>
                     </ul>
                 </div>
@@ -208,10 +208,10 @@ Class Area
         </div>
         <div class="th-pagination text-center mt-50">
             <ul>
-                <li><a href="blog.html"><i class="fas fa-arrow-left"></i></a></li>
-                <li><a href="blog.html">1</a></li>
-                <li><a href="blog.html">2</a></li>
-                <li><a href="blog.html"><i class="fas fa-arrow-right"></i></a></li>
+                <li><a href="#"><i class="fas fa-arrow-left"></i></a></li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#"><i class="fas fa-arrow-right"></i></a></li>
             </ul>
         </div>
     </div>

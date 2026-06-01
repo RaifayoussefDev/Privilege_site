@@ -17,7 +17,7 @@ require "../inc/header.php";
                 <div class="breadcumb-content">
                     <h1 class="breadcumb-title">Contactez-Nous !</h1>
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Accueil</a></li>
+                        <li><a href="../">Accueil</a></li>
                         <li>Contactez-Nous !</li>
                     </ul>
                 </div>
@@ -56,7 +56,7 @@ Contact Area
                     <div class="media-body">
                         <p class="contact-feature_label">Contact</p>
                         <a href="tel:+212522831616" class="contact-feature_link">+212 522 831 616</a>
-                        <a href="mailto:privilege@capitalsoft.com" class="contact-feature_link">privilege@capitalsoft.com</a>
+                        <a href="mailto:info@privilege.ma" class="contact-feature_link">info@privilege.ma</a>
                     </div>
                 </div>
             </div>
