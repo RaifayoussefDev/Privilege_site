@@ -3,7 +3,7 @@ require "../inc/head.php";
 require "../inc/header.php";
 ;?>
 
-<div class="breadcumb-wrapper " data-bg-src="<?php echo $path ;?>/assets/img/bg/breadcumb-bg.jpg">
+<div class="breadcumb-wrapper" data-bg-src="<?php echo $path; ?>/assets/img/Photos/889A9761.jpg">
     <div class="breadcumb-shape1"></div>
     <div class="breadcumb-shape2"></div>
     <div class="breadcumb-shape3"></div>
@@ -12,16 +12,16 @@ require "../inc/header.php";
         <div class="row">
             <div class="col-lg-6">
                 <div class="breadcumb-content">
-                    <h1 class="breadcumb-title">Pricing Plan</h1>
+                    <h1 class="breadcumb-title">Abonnements & Tarifs</h1>
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Home</a></li>
-                        <li>Pricing Plan</li>
+                        <li><a href="../">Accueil</a></li>
+                        <li>Abonnements & Tarifs</li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-6 d-lg-block d-none align-self-end">
                 <div class="breadcumb-thumb">
-                    <img src="<?php echo $path ;?>/assets/img/normal/breadcumb-thumb.png" alt="img">
+                    <img src="<?php echo $path; ?>/assets/img/Photos/889A9596-1.jpg" alt="Abonnements Privilège" style="max-height:320px;object-fit:cover;border-radius:8px;">
                 </div>
             </div>
         </div>

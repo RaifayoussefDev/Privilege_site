@@ -5,7 +5,7 @@ require "../inc/header.php"; ?>
 <!--==============================
     Breadcumb
 ==============================-->
-<div class="breadcumb-wrapper" data-bg-src="<?php echo $path; ?>/assets/img/bg/breadcumb-bg.jpg">
+<div class="breadcumb-wrapper" data-bg-src="<?php echo $path; ?>/assets/img/Photos/889A9543-HDR.jpg">
     <div class="breadcumb-shape1"></div>
     <div class="breadcumb-shape2"></div>
     <div class="breadcumb-shape3"></div>
@@ -23,7 +23,7 @@ require "../inc/header.php"; ?>
             </div>
             <div class="col-lg-6 d-lg-block d-none align-self-end">
                 <div class="breadcumb-thumb">
-                    <img src="<?php echo $path; ?>/assets/img/normal/breadcumb-thumb.png" alt="img">
+                    <img src="<?php echo $path; ?>/assets/img/Photos/889A9532-HDR.jpg" alt="Nos Salles Privilège" style="max-height:320px;object-fit:cover;border-radius:8px;">
                 </div>
             </div>
         </div>
