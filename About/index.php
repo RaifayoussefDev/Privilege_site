@@ -142,14 +142,14 @@ Team Area
         <div class="slider-area">
             <div class="swiper th-slider has-shadow" id="teamSlider2" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"4"}}}'>
                 <div class="swiper-wrapper">
-                    <!-- Single Item -->
+                    <!-- Karim El Mansouri -->
                     <div class="swiper-slide">
                         <div class="th-team team-card style2">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_1.png" alt="Team">
+                                    <img src="<?php echo $path; ?>/assets/img/team/team_1_1.jpg" alt="Karim El Mansouri">
                                     <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_1-hover.png" alt="Team">
+                                        <img src="<?php echo $path; ?>/assets/img/team/team_1_1.jpg" alt="Karim El Mansouri">
                                     </div>
                                 </div>
                             </div>
@@ -158,27 +158,25 @@ Team Area
                                 <h3 class="box-title"><a href="#">Karim El Mansouri</a></h3>
                                 <span class="team-desig">Coach CrossFit</span>
                                 <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
+                                    <a href="#" class="team-social-hover_btn"><i class="far fa-plus"></i></a>
                                     <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                                        <a target="_blank" href="https://instagram.com/privilegefitnessclub/"><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" href="https://facebook.com/privilegefitnessclub/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://wa.me/212522831616"><i class="fab fa-whatsapp"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Single Item -->
+                    <!-- Nabil Benjelloun -->
                     <div class="swiper-slide">
                         <div class="th-team team-card style2">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_2.png" alt="Team">
+                                    <img src="<?php echo $path; ?>/assets/img/team/team_1_2.jpg" alt="Nabil Benjelloun">
                                     <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_2-hover.png" alt="Team">
+                                        <img src="<?php echo $path; ?>/assets/img/team/team_1_2.jpg" alt="Nabil Benjelloun">
                                     </div>
                                 </div>
                             </div>
@@ -187,187 +185,65 @@ Team Area
                                 <h3 class="box-title"><a href="#">Nabil Benjelloun</a></h3>
                                 <span class="team-desig">Coach Fitness</span>
                                 <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
+                                    <a href="#" class="team-social-hover_btn"><i class="far fa-plus"></i></a>
                                     <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                                        <a target="_blank" href="https://instagram.com/privilegefitnessclub/"><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" href="https://facebook.com/privilegefitnessclub/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://wa.me/212522831616"><i class="fab fa-whatsapp"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Single Item -->
+                    <!-- Salma Tazi -->
                     <div class="swiper-slide">
                         <div class="th-team team-card style2">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_3.png" alt="Team">
+                                    <img src="<?php echo $path; ?>/assets/img/team/team_1_3.jpg" alt="Salma Tazi">
                                     <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_3-hover.png" alt="Team">
+                                        <img src="<?php echo $path; ?>/assets/img/team/team_1_3.jpg" alt="Salma Tazi">
                                     </div>
                                 </div>
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
                                 <h3 class="box-title"><a href="#">Salma Tazi</a></h3>
-                                <span class="team-desig">Coach CrossFit</span>
+                                <span class="team-desig">Coach Yoga & Spa</span>
                                 <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
+                                    <a href="#" class="team-social-hover_btn"><i class="far fa-plus"></i></a>
                                     <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                                        <a target="_blank" href="https://instagram.com/privilegefitnessclub/"><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" href="https://facebook.com/privilegefitnessclub/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://wa.me/212522831616"><i class="fab fa-whatsapp"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Single Item -->
+                    <!-- Yassine Chakir -->
                     <div class="swiper-slide">
                         <div class="th-team team-card style2">
                             <div class="img-wrap">
                                 <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_4.png" alt="Team">
+                                    <img src="<?php echo $path; ?>/assets/img/team/team_1_4.jpg" alt="Yassine Chakir">
                                     <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_4-hover.png" alt="Team">
+                                        <img src="<?php echo $path; ?>/assets/img/team/team_1_4.jpg" alt="Yassine Chakir">
                                     </div>
                                 </div>
                             </div>
                             <div class="team-card-content">
                                 <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="#">Darrell Steward</a></h3>
-                                <span class="team-desig">Coach Fitness</span>
+                                <h3 class="box-title"><a href="#">Yassine Chakir</a></h3>
+                                <span class="team-desig">Coach Reaxing</span>
                                 <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
+                                    <a href="#" class="team-social-hover_btn"><i class="far fa-plus"></i></a>
                                     <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style2">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_1.png" alt="Team">
-                                    <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_1-hover.png" alt="Team">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="#">Karim El Mansouri</a></h3>
-                                <span class="team-desig">Coach CrossFit</span>
-                                <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style2">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_2.png" alt="Team">
-                                    <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_2-hover.png" alt="Team">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="#">Nabil Benjelloun</a></h3>
-                                <span class="team-desig">Coach Fitness</span>
-                                <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style2">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_3.png" alt="Team">
-                                    <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_3-hover.png" alt="Team">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="#">Salma Tazi</a></h3>
-                                <span class="team-desig">Coach CrossFit</span>
-                                <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Item -->
-                    <div class="swiper-slide">
-                        <div class="th-team team-card style2">
-                            <div class="img-wrap">
-                                <div class="team-img">
-                                    <img src="<?php echo $path; ?>/assets/img/team/team_2_4.png" alt="Team">
-                                    <div class="hover-img">
-                                        <img src="<?php echo $path; ?>/assets/img/team/team_2_4-hover.png" alt="Team">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="team-card-content">
-                                <div class="team-card-bg-shape" data-bg-src="<?php echo $path; ?>/assets/img/team/team-card-bg-2.png"></div>
-                                <h3 class="box-title"><a href="#">Darrell Steward</a></h3>
-                                <span class="team-desig">Coach Fitness</span>
-                                <div class="team-social-hover">
-                                    <a href="#" class="team-social-hover_btn">
-                                        <i class="far fa-plus"></i>
-                                    </a>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                                        <a target="_blank" href="https://instagram.com/privilegefitnessclub/"><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" href="https://facebook.com/privilegefitnessclub/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://wa.me/212522831616"><i class="fab fa-whatsapp"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -466,7 +342,145 @@ Service Area
 </section>
 
 <!--==============================
-Brand Area  
+Temoignages Area
+==============================-->
+<section class="space bg-black2" id="temoignages-sec">
+    <div class="container">
+        <div class="title-area text-center mb-50">
+            <span class="sub-title">Ce Qu'ils Disent</span>
+            <h2 class="sec-title text-white">Témoignages de Nos Membres</h2>
+        </div>
+        <div class="swiper th-slider" id="temoignagesSlider" data-slider-options='{"loop":true,"autoplay":{"delay":4500},"breakpoints":{"0":{"slidesPerView":1},"768":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
+            <div class="swiper-wrapper">
+
+                <!-- Témoignage 1 -->
+                <div class="swiper-slide">
+                    <div class="testi-card style2">
+                        <div class="testi-card_quote"><i class="fas fa-quote-left"></i></div>
+                        <p class="testi-card_text">Privilège Luxury Fitness Club est sans doute le meilleur club de Casablanca. L'ambiance est exceptionnelle, les équipements sont dernière génération et les coachs sont vraiment professionnels. Je recommande vivement !</p>
+                        <div class="testi-card_author">
+                            <div class="testi-card_img">
+                                <img src="<?php echo $path; ?>/assets/img/team/team_1_1.jpg" alt="Mehdi Alaoui">
+                            </div>
+                            <div class="testi-card_info">
+                                <h3 class="box-title text-white">Mehdi Alaoui</h3>
+                                <span class="testi-card_desig">Membre depuis 2 ans</span>
+                            </div>
+                            <div class="testi-card_review ms-auto">
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Témoignage 2 -->
+                <div class="swiper-slide">
+                    <div class="testi-card style2">
+                        <div class="testi-card_quote"><i class="fas fa-quote-left"></i></div>
+                        <p class="testi-card_text">La salle Reaxing est unique au Maroc et m'a complètement transformée. En 6 mois, j'ai gagné en coordination, en équilibre et en confiance. L'équipe est toujours à l'écoute et bienveillante.</p>
+                        <div class="testi-card_author">
+                            <div class="testi-card_img">
+                                <img src="<?php echo $path; ?>/assets/img/team/team_1_3.jpg" alt="Sara Benali">
+                            </div>
+                            <div class="testi-card_info">
+                                <h3 class="box-title text-white">Sara Benali</h3>
+                                <span class="testi-card_desig">Membre depuis 1 an</span>
+                            </div>
+                            <div class="testi-card_review ms-auto">
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Témoignage 3 -->
+                <div class="swiper-slide">
+                    <div class="testi-card style2">
+                        <div class="testi-card_quote"><i class="fas fa-quote-left"></i></div>
+                        <p class="testi-card_text">Un club hors du commun ! Le cadre est luxueux, les douches et vestiaires sont impeccables. Karim mon coach CrossFit a su adapter chaque séance à mes besoins. Résultats visibles dès le premier mois.</p>
+                        <div class="testi-card_author">
+                            <div class="testi-card_img">
+                                <img src="<?php echo $path; ?>/assets/img/team/team_1_2.jpg" alt="Rachid El Fassi">
+                            </div>
+                            <div class="testi-card_info">
+                                <h3 class="box-title text-white">Rachid El Fassi</h3>
+                                <span class="testi-card_desig">Membre depuis 3 ans</span>
+                            </div>
+                            <div class="testi-card_review ms-auto">
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Témoignage 4 -->
+                <div class="swiper-slide">
+                    <div class="testi-card style2">
+                        <div class="testi-card_quote"><i class="fas fa-quote-left"></i></div>
+                        <p class="testi-card_text">J'apprécie énormément les cours de yoga animés par Salma. L'espace est calme, propre et très bien aménagé. Le spa est une vraie détente après chaque séance. Privilège, c'est vraiment une expérience complète !</p>
+                        <div class="testi-card_author">
+                            <div class="testi-card_img">
+                                <img src="<?php echo $path; ?>/assets/img/team/team_1_4.jpg" alt="Nadia Khattabi">
+                            </div>
+                            <div class="testi-card_info">
+                                <h3 class="box-title text-white">Nadia Khattabi</h3>
+                                <span class="testi-card_desig">Membre depuis 8 mois</span>
+                            </div>
+                            <div class="testi-card_review ms-auto">
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Témoignage 5 -->
+                <div class="swiper-slide">
+                    <div class="testi-card style2">
+                        <div class="testi-card_quote"><i class="fas fa-quote-left"></i></div>
+                        <p class="testi-card_text">Grâce au suivi personnalisé de Nabil, j'ai perdu 12 kg en 4 mois tout en gagnant en masse musculaire. La qualité des équipements et la propreté du club sont au rendez-vous à chaque visite. Je suis bluffé !</p>
+                        <div class="testi-card_author">
+                            <div class="testi-card_img">
+                                <img src="<?php echo $path; ?>/assets/img/team/team_1_1.jpg" alt="Omar Bennani">
+                            </div>
+                            <div class="testi-card_info">
+                                <h3 class="box-title text-white">Omar Bennani</h3>
+                                <span class="testi-card_desig">Membre depuis 6 mois</span>
+                            </div>
+                            <div class="testi-card_review ms-auto">
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                                <i class="fas fa-star text-theme"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="slider-pagination"></div>
+        </div>
+    </div>
+</section>
+
+<!--==============================
+Brand Area
 ==============================-->
 <div class="space-bottom overflow-hidden">
     <div class="container-fluid">
