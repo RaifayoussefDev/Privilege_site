@@ -32,16 +32,27 @@
     /*
 
   /*---------- 01. On Load Function ----------*/
-    $(window).on("load", function () {
-        $(".preloader").fadeOut();
-    });
+    var _preloaderDone = false;
+    function _hidePreloader() {
+        if (_preloaderDone) return;
+        _preloaderDone = true;
+        $(".preloader").fadeOut(400);
+    }
+    // Hide immediately if page already loaded (handles defer-script timing edge case)
+    if (document.readyState === "complete") {
+        _hidePreloader();
+    } else {
+        $(window).on("load", _hidePreloader);
+    }
+    // Hard fallback: never wait more than 2.5 seconds
+    setTimeout(_hidePreloader, 2500);
 
     /*---------- 02. Preloader ----------*/
     if ($(".preloader").length > 0) {
         $(".preloaderCls").each(function () {
             $(this).on("click", function (e) {
                 e.preventDefault();
-                $(".preloader").css("display", "none");
+                _hidePreloader();
             });
         });
     }
