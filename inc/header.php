@@ -71,7 +71,7 @@
                 <!-- <li><a href="<?php // echo $path; ?>/Abonnement_tarifs/">Abonnements & Tarifs</a></li> -->
                 <li><a href="<?php echo $path; ?>/Salles/">Nos Salles</a></li>
                 <!-- <li><a href="<?php echo $path; ?>/About/">Réservations</a></li> -->
-                <li><a href="<?php echo $path; ?>/About/">Événements</a></li>
+                <li><a href="<?php echo $path; ?>/Evenements/">Événements</a></li>
                 <!-- <li><a href="<?php echo $path; ?>/About/">Blog & Conseils</a></li> -->
                 <li><a href="<?php echo $path; ?>/About/">À Propos</a></li>
                 <li><a href="<?php echo $path; ?>/Contact/">Contact</a></li>
@@ -145,7 +145,7 @@
                                 <!-- <li><a href="<?php //echo $path; ?>/Abonnement_tarifs/">Abonnements & Tarifs</a></li> -->
                                 <li><a href="<?php echo $path; ?>/Salles/">Nos Salles</a></li>
                                 <!-- <li><a href="<?php echo $path; ?>/About/">Réservations</a></li> -->
-                                <li><a href="<?php echo $path; ?>/About/">Événements</a></li>
+                                <li><a href="<?php echo $path; ?>/Evenements/">Événements</a></li>
                                 <!-- <li><a href="<?php echo $path; ?>/About/">Blog & Conseils</a></li> -->
                                 <li><a href="<?php echo $path; ?>/About/">À Propos</a></li>
                                 <li><a href="<?php echo $path; ?>/Contact/">Contact</a></li>
