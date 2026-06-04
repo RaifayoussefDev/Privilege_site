@@ -86,7 +86,7 @@
                                  <li><a href="<?php echo $path; ?>">Accueil</a></li>
                                  <li><a href="<?php echo $path; ?>/services/">Nos Services</a></li>
                                  <li><a href="<?php echo $path; ?>/Salles/">Nos Salles</a></li>
-                                 <li><a href="<?php echo $path; ?>/About/">Événements</a></li>
+                                 <li><a href="<?php echo $path; ?>/Evenements/">Événements</a></li>
                                  <li><a href="<?php echo $path; ?>/About/">À Propos</a></li>
                                  <li><a href="<?php echo $path; ?>/Contact/">Contact</a></li>
                              </ul>
@@ -142,6 +142,9 @@
                  <div class="col-lg-6">
                      <p class="copyright-text">
                          <i class="fal fa-copyright"></i> Copyright 2026 <a href="https://privilege.ma">Privilège Luxury Fitness Club</a>. Tous droits réservés.
+                     </p>
+                     <p class="copyright-text mt-1" style="font-size:12px;opacity:.55">
+                         Développé par <a href="https://capitalsoft.ma" target="_blank" rel="noopener" style="color:var(--theme-color);opacity:1">capitalsoft.ma</a>
                      </p>
                  </div>
                  <div class="col-lg-6 text-center text-lg-end">
