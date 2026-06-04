@@ -20,8 +20,6 @@
     <script src="<?php echo $path; ?>/assets/js/isotope.pkgd.min.js" defer></script>
     <!-- datetimepicker -->
     <script src="<?php echo $path; ?>/assets/js/jquery.datetimepicker.min.js" defer></script>
-    <!-- Tweenmax -->
-    <script src="<?php echo $path; ?>/assets/js/tweenmax.min.js" defer></script>
     <!-- Circle Progress -->
     <script src="<?php echo $path; ?>/assets/js/circle-progress.js" defer></script>
     <!-- Bmi Calculator JS -->

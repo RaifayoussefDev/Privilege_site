@@ -109,15 +109,16 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === 'off') {
 	============================== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Kanit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <!--==============================
 	    All CSS File
 	============================== -->
     <!-- Bootstrap -->
     <link rel="stylesheet" href="<?php echo $path; ?>/assets/css/bootstrap.min.css">
-    <!-- Fontawesome Icon -->
-    <link rel="stylesheet" href="<?php echo $path; ?>/assets/css/fontawesome.min.css">
+    <!-- Fontawesome Icon — chargé en async pour ne pas bloquer le rendu -->
+    <link rel="preload" href="<?php echo $path; ?>/assets/css/fontawesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="<?php echo $path; ?>/assets/css/fontawesome.min.css"></noscript>
     <!-- Magnific Popup -->
     <link rel="stylesheet" href="<?php echo $path; ?>/assets/css/magnific-popup.min.css">
     <!-- datetimepicker -->
